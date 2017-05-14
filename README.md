@@ -24,6 +24,6 @@ I combined two different schemes to generates a colorful base-map.
 
 Using colors from https://coolors.co/app/ffbf00-e83f6f-2274a5-32936f-ffffff
 
-![](img\map2_1.PNG)
+![](img/map2_1.PNG)
 
 I emulated some relief and base elements for this second approach.
