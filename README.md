@@ -12,7 +12,7 @@
 
 I developed this base map using some basic colors from http://www.colorhunt.co/.
 
-![](img/map1.png)  ![](img/map1_2.png)
+![](img/map1.PNG)  ![](img/map1_2.PNG)
 
 I combined two different schemes to generates a colorful base-map.
 
@@ -24,6 +24,6 @@ I combined two different schemes to generates a colorful base-map.
 
 Using colors from https://coolors.co/app/ffbf00-e83f6f-2274a5-32936f-ffffff
 
-![](img\map2_1.png)
+![](img\map2_1.PNG)
 
 I emulated some relief and base elements for this second approach.
