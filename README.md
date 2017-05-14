@@ -16,7 +16,7 @@ I developed this base map using some basic colors from http://www.colorhunt.co/.
 
 I combined two different schemes to generates a colorful base-map.
 
-[Here](https://cdn.rawgit.com/paulomur/MapBox_BaseMaps/7ee0c83c/map1.html) you can find my Base map 1.
+[Here](http://cdn.rawgit.com/paulomur/MapBox_BaseMaps/7ee0c83c/map1.html) you can find my Base map 1.
 
 ## Base Map Inspiration II
 
